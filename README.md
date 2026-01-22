@@ -14,3 +14,11 @@ The main functionality of the project is playing 4 different songs (The Godfathe
 ## How it works
 
 In the pitches.h file are kept renditions of around 90 musical notes into numbers understood by the buzzer. In the same file are kept the scores of the 4 songs, which are played when selected with the remote, whose signals are interpreted in the main.ino file.
+
+<p align="center">
+  <img width="883" height="630" alt="image" src="https://github.com/user-attachments/assets/2920a6e8-75e2-4dcb-9dc0-a0d49717ac4c" />
+</p>
+
+<p align="center">
+  Simple schematic of the project
+</p>
